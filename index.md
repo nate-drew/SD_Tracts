@@ -1,4 +1,4 @@
-# Interactive Ambulatory Difficulty Map
+# Interactive Soul Delivered Maps
 This map shows the percentage of people in the Soul Delivered area who report Ambulatory Difficulty, defined by the Chicago Health Atlas as "Percent of residents reporting serious difficulty walking or climbing stairs" - broken up into census tracts. <br>
 [Ambulatory Difficulty Map](Ambulatory/map.html)
 
