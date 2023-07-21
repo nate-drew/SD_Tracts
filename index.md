@@ -9,3 +9,6 @@ This map shows the percentage of people in the Soul Delivered area who report In
 
 This map shows the population of each census tract in the Soul Delivered Area. <br>
 [Tract Population Map](Population/Webapp/PopMap.html)
+
+This Map shows the percentage of people in the Soul Delivered area who report Self-Care Difficulty, defined by the Chicago Health Atlas as "Percent of residents reporting difficulty dressing or bathing" - broken up into census tracts. <br>
+[Self-Care Map](SelfCare/qgis2web_2023_07_21-16_07_44_836685/SelfCareMap.html)
