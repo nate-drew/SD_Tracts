@@ -14,4 +14,4 @@
 [Walkability Map](Walkability/Webapp/WalkMap.html) - This map shows the walkability index of each census tract in the Soul Delivered Area. Walkability is defined by the Chicago Health Atlas as "A ranking ... based on intersection density, proximity to transit, diversity of businesses, and density of housing. Values range from 1 to 20 with 20 being most walkable.
 
 
-[Land Use Map](LandUseWebapp/LandUseMap.html)
+[Land Use Map](LandUseWebapp/Data/LandUseMap.html)
